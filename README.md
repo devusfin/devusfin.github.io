@@ -1,5 +1,5 @@
 <h1 align="center">
-  Doks
+  Doks - Modified for Devusfin
 </h1>
 
 <h3 align="center">
@@ -35,31 +35,31 @@
 
 Nine main reasons why you should use Doks:
 
-1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
+1. **Security aware**. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
 
-2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=59aafe464a68f8bc30b8e9a636d5b053) by default. Doks removes unused css, prefetches links, and lazy loads images.
+2. **Fast by default**. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=59aafe464a68f8bc30b8e9a636d5b053) by default. Doks removes unused css, prefetches links, and lazy loads images.
 
-3. __SEO-ready__. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
+3. **SEO-ready**. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
 
-4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
+4. **Development tools**. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
 
-5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
+5. **Bootstrap framework**. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
 
-6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
+6. **Netlify-ready**. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
 
-7. __Full text search__. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
+7. **Full text search**. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
 
-8. __Page layouts__. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
+8. **Page layouts**. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
 
-9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
+9. **Dark mode**. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
 
 ### Other features
 
-- __Multilingual and i18n__ support
-- __Versioning__ documentation support
-- __KaTeX__ math typesetting
-- __Mermaid__ diagrams and visualization
-- __highlight.js__ syntax highlighting
+- **Multilingual and i18n** support
+- **Versioning** documentation support
+- **KaTeX** math typesetting
+- **Mermaid** diagrams and visualization
+- **highlight.js** syntax highlighting
 
 ## Requirements
 
@@ -85,7 +85,7 @@ Doks is available as a child theme and a starter theme.
 
 - Intended for novice to intermediate users
 - Intended for minor customizations
-- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks)
+- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/) — **including** [Doks](https://www.npmjs.com/package/@hyas/doks)
 
 ```bash
 git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
@@ -148,5 +148,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 Support this project by becoming a backer. Your avatar will show up here.
 
 [![Backers](https://opencollective.com/doks/tiers/backer.svg?49741992)](https://opencollective.com/doks)
-
-
