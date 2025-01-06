@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devusfin.github.io/sitemap.xml
+Sitemap: https://devusfinlegal.com/sitemap.xml
